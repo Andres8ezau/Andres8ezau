@@ -9,7 +9,7 @@
 
 ### _Chemistry undergraduate_ and _programming apprentice_ :scientist: :sparkles: :rocket: 
  ## About Me: 
-I'm from México. Looking for fresh knowledge, always curious for __Technology__ and __Science__.
+I'm from México :mexico:. Looking for fresh knowledge, always curious for __Technology__ and __Science__.
 <img align='right' src="https://github.com/Andres8ezau/Andres8ezau/blob/master/giphy%20(1.2).gif" width="250" />
 Now I'm into *Python* and learning the basics of *Machine Learning*.  
 
